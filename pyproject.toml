@@ -1,0 +1,19 @@
+[project]
+name = "docker-for-science"
+version = "0.1.0"
+description = "How to work with Docker to make your code reproducible"
+authors = [
+    { name = "Ryan Daniels" },
+    { name = "Radzim Sendyka" },
+    { name = "Fin Griffin" },
+  ]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.6.23",
+    "mkdocstrings>=0.30.1",
+]
