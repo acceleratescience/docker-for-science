@@ -9,8 +9,10 @@ nav:
   - Reproducibility: reproducibility.md
   - Basics:
     - Hello World!: Basics/hello-world.md
+    - Deep Dive: Basics/deep-dive.md
+    - More Commands: Basics/more-commands.md
     - Volumes: Basics/volumes.md
-    - Docker Hub: Basics/docker-hub.md
+    # - Docker Hub: Basics/docker-hub.md
   - Building your own images:
     - Building your own images: Building-your-own-images/index.md
     - Hello World!: Building-your-own-images/hello-world.md
