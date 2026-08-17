@@ -5,7 +5,7 @@ description = "How to work with Docker to make your code reproducible"
 authors = [
     { name = "Ryan Daniels" },
     { name = "Radzim Sendyka" },
-    { name = "Fin Griffin" },
+    { name = "Fin Griffin", email = "fingriffin2023@outlook.com" },
   ]
 readme = "README.md"
 requires-python = ">=3.12"
